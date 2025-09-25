@@ -1,0 +1,32 @@
+# ----------------------------
+# Python
+# ----------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+myvenv/
+*.env
+*.env.bak
+
+# ----------------------------
+# Node / React
+# ----------------------------
+frontend/node_modules/
+frontend/build/
+frontend/.env
+frontend/.env.bak
+
+# ----------------------------
+# IDE / OS
+# ----------------------------
+.vscode/
+.idea/
+.DS_Store
+
+# ----------------------------
+# Logs
+# ----------------------------
+*.log
